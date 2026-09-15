@@ -15,7 +15,7 @@ public class Calculator {
         return a * b;
     }
 
-    // Divide method with check for zero
+    // Divide method with check for zero promqna ot Gosho
     public double divide(double a, double b) {
         if (b == 0) {
             throw new IllegalArgumentException("Cannot divide by zero");
