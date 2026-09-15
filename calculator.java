@@ -12,6 +12,7 @@ public class Calculator {
         return a * b;
     }
 
+    // Divide method with check for zero
     public double divide(double a, double b) {
         if (b == 0) {
             throw new IllegalArgumentException("Cannot divide by zero");
