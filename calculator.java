@@ -11,8 +11,8 @@ public class Calculator {
     }
 
     // Promqna direktno na servera
-    public double multiply(double a, double b) {
-        return a * b;
+    public double multiply(double a, double b, double c) {
+        return a * b * c;
     }
 
     // Divide method with check for zero promqna ot Gosho
