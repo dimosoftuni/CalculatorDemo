@@ -1,7 +1,7 @@
 public class Calculator {
 
     // Add method ot DIMO lokalno
-    public double add(double a, double b) {
+    public int add(int a, int b) {
         return a + b;
     }
 
