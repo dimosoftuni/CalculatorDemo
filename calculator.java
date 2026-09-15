@@ -1,8 +1,8 @@
 public class Calculator {
 
     // Add method ot DIMO lokalno
-    public int add(int a, int b) {
-        return a + b;
+    public int add(int a, int b int c) {
+        return a + b + c;
     }
 
     // Subtract method
