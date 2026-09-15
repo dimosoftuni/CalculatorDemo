@@ -9,6 +9,7 @@ public class Calculator {
         return a - b;
     }
 
+    // Promqna direktno na servera
     public double multiply(double a, double b) {
         return a * b;
     }
