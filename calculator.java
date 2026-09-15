@@ -11,7 +11,7 @@ public class Calculator {
     }
 
     // Promqna direktno na servera
-    public double multiply(double a, double b) {
+    public int multiply(int a, int b) {
         return a * b;
     }
 
