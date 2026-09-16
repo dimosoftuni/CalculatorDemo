@@ -1,6 +1,6 @@
 public class Calculator {
 
-    // Add method ot DIMO lokalno
+    // Add method
     public int add(int a, int b int c) {
         return a + b + c;
     }
