@@ -23,4 +23,13 @@ public class Calculator {
 
         return a / b;
     }
+	
+	// Divide method with check for zero
+    public double divide_new(double a, double b) {
+        if (b == 0) {
+            throw new IllegalArgumentException("Cannot divide by zero");
+        }
+
+        return a / b;
+    }
 }
